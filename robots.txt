@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mckinstryhancher688-pixel.github.io/ningde-drain-service-info/sitemap.xml

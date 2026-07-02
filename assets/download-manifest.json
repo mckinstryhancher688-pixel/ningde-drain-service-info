@@ -1,0 +1,47 @@
+﻿[
+    {
+        "Path":  "about.html",
+        "Length":  8963,
+        "Sha256":  "552CCB0CA6A91D9B5F773539B4352A73899184DD79D28AA8F15FD05921E48492"
+    },
+    {
+        "Path":  "faq.html",
+        "Length":  14295,
+        "Sha256":  "9E36E6F7FDFE6868A2BE826E1A25FE74FE8D3639C7D88159B0E1C87248C4A254"
+    },
+    {
+        "Path":  "index.html",
+        "Length":  11184,
+        "Sha256":  "211E8926C0B827E296F860CA4B19C672AF61DD4CD34598CEBAD4F756D9CDE443"
+    },
+    {
+        "Path":  "robots.txt",
+        "Length":  65,
+        "Sha256":  "3381006E0475B8EF355CE40FA03AD983DA7B24305FC75F4E7BCCF6D54E5CDDB5"
+    },
+    {
+        "Path":  "services.html",
+        "Length":  8804,
+        "Sha256":  "2085B8D9333FC6C33EC389D7A5B7232D7A65BFAAD940C76E812429595D42E959"
+    },
+    {
+        "Path":  "sitemap.xml",
+        "Length":  421,
+        "Sha256":  "A279F395E338153A4268D8875FF19EDBDF20737E3A3A775261602FF8782B755D"
+    },
+    {
+        "Path":  "assets/download-manifest.json",
+        "Length":  2143,
+        "Sha256":  "BA830981EAD8476DB2813DDA542728CE087895C294D527C44E49F9425C9A694E"
+    },
+    {
+        "Path":  "assets/images/content.png",
+        "Length":  294912,
+        "Sha256":  "C706F59F0F34E1D5DAB079C9C6F5F7083E11357882EF7C05B8BC67B3DFCCD9F1"
+    },
+    {
+        "Path":  "images/content.png",
+        "Length":  1193871,
+        "Sha256":  "75F2B8B6F523B48053C0F5BEB56978F151BFE5C71E66F36921EE1DF288581D4B"
+    }
+]
