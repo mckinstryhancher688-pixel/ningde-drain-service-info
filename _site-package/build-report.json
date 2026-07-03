@@ -1,0 +1,21 @@
+{
+  "brandName": "旺通管道疏通",
+  "city": "宁德市",
+  "stage": "production",
+  "generatedAt": "2026-07-03T03:23:32.557Z",
+  "baseUrl": "https://ningde.peiqirui.com",
+  "pages": 4,
+  "articles": 75,
+  "files": [
+    "index.html",
+    "services.html",
+    "faq.html",
+    "about.html",
+    "robots.txt",
+    "sitemap.xml",
+    "sitemap.txt",
+    "llms.txt",
+    ".well-known/llms.txt",
+    "feed.xml"
+  ]
+}
